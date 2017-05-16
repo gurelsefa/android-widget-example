@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sefag\Desktop\android-widget-example-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\sefag\Desktop\android-widget-example-master1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_7b29d97967d8c0684b4bd8ed235e5318e8002073.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sefag\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\sefag\Desktop\android-widget-example-master1\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_da49204392320c157c4e7fd81e66caab0a6f3cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sefag\Desktop\android-widget-example-master1\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\sefag\Desktop\android-widget-example-master1\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_b955fb61bb8caa69246470c3ab638c227266d315.jar" />
+    </item>
+
+</items>

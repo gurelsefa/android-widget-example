@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\sefag\\Desktop\\android-widget-example-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget_layout.xml",
+        "source": "C:\\Users\\sefag\\Desktop\\android-widget-example-master1\\app\\src\\main\\res\\layout\\widget_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\sefag\\Desktop\\android-widget-example-master1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "C:\\Users\\sefag\\Desktop\\android-widget-example-master1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    }
+]
